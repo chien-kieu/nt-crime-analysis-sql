@@ -56,7 +56,7 @@ ORDER BY Total DESC;
 - **Source:** NT Government Open Data
 - **Dataset:** NT Police — Recorded Offences
 - **Coverage:** Northern Territory, 2023–2025
-- **Link:** [data.nt.gov.au](https://data.nt.gov.au)
+- **Link:** [data.nt.gov.au](https://data.nt.gov.au/dataset/nt-crime-statistics-january-2025)
 
 ---
 
